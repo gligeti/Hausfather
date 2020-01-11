@@ -1,0 +1,14 @@
+name: OldModels
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - numpy
+  - numpy-indexed
+  - statsmodels
+  - xlrd
+  - jupyterlab
